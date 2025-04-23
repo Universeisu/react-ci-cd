@@ -54,6 +54,7 @@ const NavBar = () => {
             >
               วัคซีน
             </a>
+
           </li>
           <li>
             <a
@@ -63,6 +64,7 @@ const NavBar = () => {
             >
               พัฒนาการ
             </a>
+            
           </li>
         </ul>
       </div>
